@@ -1,5 +1,5 @@
 # Playing around  
 
-## Example alternative constructors
+## Example alternative constructor
 python example.py
 
